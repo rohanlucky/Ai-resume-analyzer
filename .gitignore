@@ -1,0 +1,4 @@
+venvapp/
+App/__pycache__/
+App/cv.db
+App/Uploaded_Resumes/*.pdf
